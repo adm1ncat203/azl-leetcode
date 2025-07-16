@@ -450,6 +450,7 @@ leetcode 题解，记录自己的 leetcode 解题之路。
 - [3377. 使两个整数相等的数位操作](./problems/3377.digit-operations-to-make-two-integers-equal.md)
 - [3404. 统计特殊子序列的数目](./problems/3404.count-special-subsequences.md)
 - [3428. 至多 K 个子序列的最大和最小和](./problems/3428.maximum-and-minimum-sums-of-at-most-size-k-subsequences.md)
+- [3599. 划分数组以最小化异或值](./problems/3599.partition-array-to-minimize-xor.md)
 
 ### 困难难度题目合集
 
